@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.capital-container {
+  background-color: #93c5fd;
+  height: 100vh;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  background-color: #ffffff;
+  padding: 10px;
+  width: 300px;
+  height: 200px;
+  border-radius: 10px;
+  padding: 10px;
+}
+.heading {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 20px;
+  padding: 10px;
+}
+.drop-downlist {
+  width: 130px;
+  height: 30px;
+  margin-left: 10px;
+}
+.paragraph {
+  font-size: 10px;
+  margin-left: 10px;
+}
+.text {
+  display: flex;
+}
+.country {
+  padding: 10px;
+}
+.option {
+  color: #93c5fd;
+  font-weight: bold;
+}
